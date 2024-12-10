@@ -1,6 +1,6 @@
 openai
 datetime
-pandas as pd
+pandas
 gTTS
-streamlit as st
+streamlit
 random
