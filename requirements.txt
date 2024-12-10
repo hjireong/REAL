@@ -1,0 +1,6 @@
+openai
+datetime
+pandas as pd
+gTTS
+streamlit as st
+random
